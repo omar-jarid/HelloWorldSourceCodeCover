@@ -1,0 +1,1 @@
+This project is a "source code cover" of the song <a href="https://www.youtube.com/watch?v=yup8gIXxWDU">HelloWorld.java</a> by <a href = "https://github.com/NanowarOfSteel">Nanowar of Steel</a>... except it's now "HelloWorld.kt" and it's delivered by Cavaliere della Rosa Rossa, aka yours truly. 🌹
